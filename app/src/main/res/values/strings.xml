@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="ago">%1$s ago</string>
+    <string name="score">%1$s points by %2$s</string>
+    <string name="name">%1$s %2$s ago </string>
+    <string name="not_found">No details found</string>
+    <string name="no_internet">Please connect to working internet</string>
+</resources>
